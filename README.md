@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 oi,eu sou o @jhonvlogs
+- 👋 oi,eu sou o victor.inacio
 - meu email de contato de é victor.inacio@escola.pr.gov.br
 - 👀 eu estou inmteressado em aprender a programarnovas linguagens
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
